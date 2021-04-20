@@ -13,6 +13,6 @@ This repository contains various applications and solutons in the python languag
 * website generator: A python script that generates websites based off it's templates
 * website blocker: A script that, when executed, blocks common social media platforms from being accessed by your computer, to prevent distractions and procrastinations
 
-#Install
+# Installation
 
 No installation needed. To execute the scripts, extract them and run the script.
